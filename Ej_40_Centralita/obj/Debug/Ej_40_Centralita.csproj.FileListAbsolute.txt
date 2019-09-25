@@ -1,0 +1,2 @@
+E:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\Ej_40_Centralita\bin\Debug\Ej_40_Centralita.exe.config
+D:\Repaso\CentralTelefonica\Ej_40_Centralita\bin\Debug\Ej_40_Centralita.exe.config

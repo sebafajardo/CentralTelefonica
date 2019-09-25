@@ -1,0 +1,12 @@
+E:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+F:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+F:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+F:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+F:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+F:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+F:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+E:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+E:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+E:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+E:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+E:\UTN\Segundo_Cuatrimestre_2017\GuiaDeEjercicios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
